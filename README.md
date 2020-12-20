@@ -42,7 +42,7 @@ This workspace is focused in Frontend technologies. Each project can use several
 
 #### 1. HTML
 
- * html_1 :green_book:
+ * :green_book: html_1 
   
   This project is a resum about the basic concepts about html. We use different resources like:
   
@@ -50,7 +50,7 @@ This workspace is focused in Frontend technologies. Each project can use several
     * media format (videos, images, files)
     * forms
     
-  * html_2 :green_book:
+  * :green_book: html_2 
   
   The aim in this project is how to connect with a css file using three different ways:
   
@@ -58,7 +58,7 @@ This workspace is focused in Frontend technologies. Each project can use several
     * intern css
     * extern css
   
-  * html_scripts :green_book:
+  * :green_book: html_scripts 
   
   Scripts to run a simple html project with basic pages: 
   
@@ -95,9 +95,9 @@ This workspace is focused in Frontend technologies. Each project can use several
 
 #### 7. JavaScript
 
-* :gray_book: javascript_1
+* :notebook: javascript_1
 
 #### 8. Ionic
 
-* :black_book: ionic_1
+* :green_book: ionic_1
 
