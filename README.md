@@ -20,27 +20,27 @@ This workspace is focused in Frontend technologies. Each project can use several
 
 ## Indice :bookmark_tabs:
 
-1. HTML
+:one: HTML
   * html_1
-2. CSS
+:two: CSS
   * css_1
-3. Bootstrap
+:three: Bootstrap
   * bootstrap_1
-4. Angular
+:four: Angular
   * angular_1
-5. React
+:five: React
   * react_1
-6. Vue
+:six: Vue
   * vue_1
-7. JavaScript
+:seven: JavaScript
   * javascript_1
-8. Ionic
+:eight: Ionic
   * ionic_1  
 
 ## Content :book:
 
 
-#### 1. HTML
+#### :one: HTML
 
  * :green_book: html_1 
   
