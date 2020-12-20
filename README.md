@@ -48,8 +48,7 @@ This workspace is focused in Frontend technologies. Each project can use several
 
 ## Content :book:
 
-##  (#html)
-#### :one: HTML
+## :one: HTML (#html)
 
  * :green_book: html_1 
   
