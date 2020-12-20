@@ -36,7 +36,7 @@ This workspace is focused in Frontend technologies. Each project can use several
 ## Content
 
 
-1. HTML
+#### 1. HTML
 
  * html_1
   
@@ -66,27 +66,27 @@ This workspace is focused in Frontend technologies. Each project can use several
     - Cookie Policy
     - Contracting Conditions
   
-2. CSS
+#### 2. CSS
 
 * css_1
  
-3. Bootstrap
+#### 3. Bootstrap
 
 * bootstrap_1
 
-4. Angular
+#### 4. Angular
 
 * angular_1
  
-5. React
+#### 5. React
 
 * react_1
  
-6. Vue
+#### 6. Vue
 
 * vue_1
  
-7. Ionic
+#### 7. Ionic
 
 * ionic_1
 
