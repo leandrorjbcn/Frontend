@@ -14,7 +14,9 @@ This workspace is focused in Frontend technologies. Each project can use several
 * Angular
 * React
 * Vue
+* JavaScript
 * Ionic
+
 
 ## Indice
 
@@ -30,8 +32,10 @@ This workspace is focused in Frontend technologies. Each project can use several
   * react_1
 6. Vue
   * vue_1
-7. Ionic
-  * ionic_1
+7. JavaScript
+  * javascript_1
+8. Ionic
+  * ionic_1  
 
 ## Content
 
@@ -88,8 +92,12 @@ This workspace is focused in Frontend technologies. Each project can use several
 #### 6. Vue
 
 * vue_1
- 
-#### 7. Ionic
+
+#### 7. JavaScript
+
+* javascript_1
+
+#### 8. Ionic
 
 * ionic_1
 
