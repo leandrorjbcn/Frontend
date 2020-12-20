@@ -1,4 +1,4 @@
-# Frontend
+# Frontend   :computer:
 
 
 ## Introduction
@@ -18,7 +18,7 @@ This workspace is focused in Frontend technologies. Each project can use several
 * Ionic
 
 
-## Indice
+## Indice :bookmark_tabs:
 
 1. HTML
   * html_1
@@ -37,7 +37,7 @@ This workspace is focused in Frontend technologies. Each project can use several
 8. Ionic
   * ionic_1  
 
-## Content
+## Content :book:
 
 
 #### 1. HTML
