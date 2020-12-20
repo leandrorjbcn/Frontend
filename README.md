@@ -22,18 +22,25 @@ This workspace is focused in Frontend technologies. Each project can use several
 
 :one: HTML
   * html_1
+  
 :two: CSS
   * css_1
+  
 :three: Bootstrap
   * bootstrap_1
+  
 :four: Angular
   * angular_1
+  
 :five: React
   * react_1
+  
 :six: Vue
   * vue_1
+  
 :seven: JavaScript
   * javascript_1
+  
 :eight: Ionic
   * ionic_1  
 
@@ -73,31 +80,31 @@ This workspace is focused in Frontend technologies. Each project can use several
     * Cookie Policy
     * Contracting Conditions
   
-#### 2. CSS
+#### :two: CSS
 
 * :closed_book: css_1 
  
-#### 3. Bootstrap
+#### :three: Bootstrap
 
 * :orange_book: bootstrap_1 
 
-#### 4. Angular
+#### :four: Angular
 
 * :blue_book: angular_1 
  
-#### 5. React
+#### :five: React
 
 * :notebook_with_decorative_cover: react_1 
  
-#### 6. Vue
+#### :six: Vue
 
 * :ledger: vue_1 
 
-#### 7. JavaScript
+#### :seven: JavaScript
 
 * :notebook: javascript_1
 
-#### 8. Ionic
+#### :eight: Ionic
 
 * :green_book: ionic_1
 
