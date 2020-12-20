@@ -8,14 +8,14 @@ This workspace is focused in Frontend technologies. Each project can use several
 
 #### Technologies:
 
-* HTML
-* CSS
-* Bootstrap
-* Angular
-* React
-* Vue
-* JavaScript
-* Ionic
+:heavy_check_mark: HTML
+:heavy_check_mark: CSS
+:heavy_check_mark: Bootstrap
+:heavy_check_mark: Angular
+:heavy_check_mark: React
+:heavy_check_mark: Vue
+:heavy_check_mark: JavaScript
+:heavy_check_mark: Ionic
 
 
 ## Indice :bookmark_tabs:
