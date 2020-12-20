@@ -41,6 +41,7 @@ This workspace is focused in Frontend technologies. Each project can use several
  * html_1
   
   This project is a resum about the basic concepts about html. We use different resources like:
+  
     * words format
     * media format (videos, images, files)
     * forms
@@ -48,6 +49,7 @@ This workspace is focused in Frontend technologies. Each project can use several
   * html_2
   
   The aim in this project is how to connect with a css file using three different ways:
+  
     * in line
     * intern css
     * extern css
@@ -55,6 +57,7 @@ This workspace is focused in Frontend technologies. Each project can use several
   * html_scripts
   
   Scripts to run a simple html project with basic pages: 
+  
     * Home 
     * About us 
     * Products
