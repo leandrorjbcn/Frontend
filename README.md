@@ -89,15 +89,15 @@ This workspace is focused in Frontend technologies. Each project can use several
 
 #### :three: CSS <a name="css"></a>
 
-* :orange_book: css_1 <a name="css_1"></a>
+* :blue_book: css_1 <a name="css_1"></a>
  
 #### :four: Bootstrap <a name="bootstrap"></a>
 
-* :yellow_book: bootstrap_1 <a name="bootstrap_1"></a>
+* :orange_book: bootstrap_1 <a name="bootstrap_1"></a>
 
 #### :five: Angular <a name="angular"></a>
 
-* :blue_book: angular_1 <a name="angular_1"></a>
+* :notebook: angular_1 <a name="angular_1"></a>
  
 #### :six: React <a name="react"></a>
 
@@ -109,9 +109,9 @@ This workspace is focused in Frontend technologies. Each project can use several
 
 #### :eight: JavaScript <a name="javascript"></a>
 
-* :notebook: javascript_1 <a name="javascript_1"></a>
+* :green_book: javascript_1 <a name="javascript_1"></a>
 
 #### :nine: Ionic <a name="ionic"></a>
 
-* :green_book: ionic_1 <a name="ionic_1"></a>
+* :closed_book: ionic_1 <a name="ionic_1"></a>
 
