@@ -1,11 +1,13 @@
-# Frontend   :computer:
+# Frontend   :computer: 
+
+<div class=pull-right>[About me](https://leandrorjbcn.github.io/site/)</div>
 
 
 ## Introduction
 
 This workspace is focused in Frontend technologies. Each project can use several kind of resources, but it will be oriented to explore a particular area.
 
-[About me](https://leandrorjbcn.github.io/site/)
+
 
 #### Technologies:    
 
