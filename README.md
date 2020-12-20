@@ -75,29 +75,29 @@ This workspace is focused in Frontend technologies. Each project can use several
   
 #### 2. CSS
 
-* css_1 :closed_book:
+* :closed_book: css_1 
  
 #### 3. Bootstrap
 
-* bootstrap_1 :orange_book:
+* :orange_book: bootstrap_1 
 
 #### 4. Angular
 
-* angular_1 :blue_book:
+* :blue_book: angular_1 
  
 #### 5. React
 
-* react_1 :notebook_with_decorative_cover:
+* :notebook_with_decorative_cover: react_1 
  
 #### 6. Vue
 
-* vue_1 :ledger:
+* :ledger: vue_1 
 
 #### 7. JavaScript
 
-* javascript_1
+* :gray_book: javascript_1
 
 #### 8. Ionic
 
-* ionic_1
+* :black_book: ionic_1
 
