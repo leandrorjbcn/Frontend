@@ -89,11 +89,11 @@ This workspace is focused in Frontend technologies. Each project can use several
 
 #### :three: CSS <a name="css"></a>
 
-* :closed_book: css_1 <a name="css_1"></a>
+* :orange_book: css_1 <a name="css_1"></a>
  
 #### :four: Bootstrap <a name="bootstrap"></a>
 
-* :orange_book: bootstrap_1 <a name="bootstrap_1"></a>
+* :yellow_book: bootstrap_1 <a name="bootstrap_1"></a>
 
 #### :five: Angular <a name="angular"></a>
 
