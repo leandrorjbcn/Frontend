@@ -1,12 +1,10 @@
 # Frontend   :computer: 
 
-<div class=pull-right>[About me](https://leandrorjbcn.github.io/site/)</div>
-
-
 ## Introduction
 
 This workspace is focused in Frontend technologies. Each project can use several kind of resources, but it will be oriented to explore a particular area.
 
+> Author: [leandrorjbcn](https://leandrorjbcn.github.io/site/)
 
 
 #### Technologies:    
@@ -22,39 +20,39 @@ This workspace is focused in Frontend technologies. Each project can use several
 ## Indice :bookmark_tabs:
 
 :one: [HTML](#html)
-  * html_1
-  * html_2
-  * html_scripts
+  * [html_1](#html_1)
+  * [html_2](#html_2)
+  * [html_3](#html_3)
 
-:two: Markdown
-  * markdown_1
+:two: [Markdown](#markdown)
+  * [markdown_1](#markdown_1)
 
-:three: CSS
-  * css_1
+:three: [CSS](#css)
+  * [css_1](#css_1)
   
-:four: Bootstrap
-  * bootstrap_1
+:four: [Bootstrap](#bootstrap)
+  * [bootstrap_1](#bootstrap_1)
   
-:five: Angular
-  * angular_1
+:five: [Angular](#angular)
+  * [angular_1](#angular_1)
   
-:six: React
-  * react_1
+:six: [React](#react)
+  * [react_1](#react_1)
   
-:seven: Vue
-  * vue_1
+:seven: [Vue](#vue)
+  * [vue_1](#vue_1)
   
-:eight: JavaScript
-  * javascript_1
+:eight: [JavaScript](#javascript)
+  * [javascript_1](#javascript_1)
   
-:nine: Ionic
-  * ionic_1  
+:nine: [Ionic](#ionic)
+  * [ionic_1](#ionic_1)
 
 ## Content :book:
 
 #### :one: HTML <a name="html"></a>
 
- * :green_book: html_1 
+ * :green_book: html_1 <a name="html_1"></a>
   
   This project is a resum about the basic concepts about html. We use different resources like:
   
@@ -62,7 +60,7 @@ This workspace is focused in Frontend technologies. Each project can use several
     * media format (videos, images, files)
     * forms
     
-  * :green_book: html_2 
+  * :green_book: html_2 <a name="html_2"></a>
   
   The aim in this project is how to connect with a css file using three different ways:
   
@@ -70,7 +68,7 @@ This workspace is focused in Frontend technologies. Each project can use several
     * intern css
     * extern css
   
-  * :green_book: html_scripts 
+  * :green_book: html_3 <a name="html_3"></a>
   
   Scripts to run a simple html project with basic pages: 
   
@@ -85,35 +83,35 @@ This workspace is focused in Frontend technologies. Each project can use several
     * Cookie Policy
     * Contracting Conditions
   
-#### :two: Markdown
+#### :two: Markdown <a name="markdown"></a>
 
-* :closed_book: markdown_1 
+* :closed_book: markdown_1 <a name="markdown_1"></a>
 
-#### :three: CSS
+#### :three: CSS <a name="css"></a>
 
-* :closed_book: css_1 
+* :closed_book: css_1 <a name="css_1"></a>
  
-#### :four: Bootstrap
+#### :four: Bootstrap <a name="bootstrap"></a>
 
-* :orange_book: bootstrap_1 
+* :orange_book: bootstrap_1 <a name="bootstrap_1"></a>
 
-#### :five: Angular
+#### :five: Angular <a name="angular"></a>
 
-* :blue_book: angular_1 
+* :blue_book: angular_1 <a name="angular_1"></a>
  
-#### :six: React
+#### :six: React <a name="react"></a>
 
-* :notebook_with_decorative_cover: react_1 
+* :notebook_with_decorative_cover: react_1 <a name="react_1"></a>
  
-#### :seven: Vue
+#### :seven: Vue <a name="vue"></a>
 
-* :ledger: vue_1 
+* :ledger: vue_1 <a name="vue_1"></a>
 
-#### :eight: JavaScript
+#### :eight: JavaScript <a name="javascript"></a>
 
-* :notebook: javascript_1
+* :notebook: javascript_1 <a name="javascript_1"></a>
 
-#### :nine: Ionic
+#### :nine: Ionic <a name="ionic"></a>
 
-* :green_book: ionic_1
+* :green_book: ionic_1 <a name="ionic_1"></a>
 
