@@ -39,12 +39,12 @@ This workspace is focused in Frontend technologies. Each project can use several
 
 
 1 HTML
-  1 html_1
+ 1 html_1
   
   This project is a resum about the basic concepts about html. We use different resources like:
-    - words format
-    - media format (videos, images, files)
-    - forms
+- words format
+- media format (videos, images, files)
+- forms
     
   2 html_2
   
