@@ -4,7 +4,7 @@
 
 This workspace is focused in Frontend technologies. Each project can use several kind of resources, but it will be oriented to explore a particular area.
 
-> Author: [leandrorjbcn] (https://leandrorjbcn.github.io/site/" target="_blank")
+> Author: [leandrorjbcn](https://leandrorjbcn.github.io/site/")
 
 #### Technologies:    
 
